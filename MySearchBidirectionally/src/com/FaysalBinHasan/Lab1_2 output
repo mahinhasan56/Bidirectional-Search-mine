@@ -1,0 +1,7 @@
+Current Src Id -Arad
+Current Dest Id -Bucharest
+Current Src Id -Sibiu
+Current Dest Id -Fagaras
+Overlaping node Fagaras
+Arad->Sibiu->Fagaras
+Bucharest->Fagaras
